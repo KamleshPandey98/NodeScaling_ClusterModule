@@ -2,6 +2,8 @@
 
 A small piece of code to implement cluster module
 
+Cluster uses Round Robin algorithm as Nginx does.
+
 ## Load Testing :
 
 Install Package :
