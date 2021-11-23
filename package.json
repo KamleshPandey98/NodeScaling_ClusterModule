@@ -1,0 +1,20 @@
+{
+  "name": "nodescalingclustermodule",
+  "version": "1.0.0",
+  "description": "Normal test for scaling using cluster module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "author": "Kamlesh Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
